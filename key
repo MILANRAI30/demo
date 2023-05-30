@@ -1,0 +1,9 @@
+my_key.pem
+Private RSA Key
+Strength: 2048 bits
+
+Algorithm:	RSA
+Size:	2048
+Fingerprints
+SHA1:	A3 C3 49 4B FD 89 58 2D 8D C4 4A 2D AB EF BD B5 62 25 8D EF
+SHA256:	4A CA 8B EB BB 50 36 95 75 19 70 E3 FE 4A 9E 36 7C 2C 6F D8 AF 0D EA CE 23 A1 62 F0 EA C6 7C 00
